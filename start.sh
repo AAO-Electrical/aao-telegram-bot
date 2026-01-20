@@ -1,1 +1,2 @@
-python aao_electrical_bot.py
+#!/usr/bin/env bash
+python3 aao_electrical_bot.py
